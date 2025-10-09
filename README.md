@@ -83,7 +83,7 @@
 
 - [x] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex) (I have no idea about this one)
 
 ## Linux Fundamentals
 
