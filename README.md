@@ -436,8 +436,11 @@
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
-
+*******************
 ---
+- [ ] [TryHackMe | Windows Internals](https://tryhackme.com/room/windowsinternals)
+    
+- [ ] [TryHackMe | Attacking Kerberos](https://tryhackme.com/room/attackingkerberos)
 
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
