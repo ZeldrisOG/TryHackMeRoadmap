@@ -121,7 +121,7 @@
 
 - [x] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
-- [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
+- [x] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
