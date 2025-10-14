@@ -99,15 +99,80 @@
 
 - [x] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
-## Windows Fundamentals
+## Linux Easy CTF
 
 ---
 
-- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [ ] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
-- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [ ] [TryHackMe |Skynet](https://tryhackme.com/room/skynet)
+
+- [ ] [TryHackMe |Game Zone](https://tryhackme.com/room/gamezone)
+
+- [ ] [TryHackMe |Silver Platter](https://tryhackme.com/room/silverplatter)
+
+## Linux Medium CTF
+
+---
+
+- [ ] [TryHackMe | Wonderful](https://tryhackme.com/room/wonderland)
+
+- [ ] [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
+
+- [ ] [TryHackMe | Zeno](https://tryhackme.com/room/zeno)
+
+- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+
+- [ ] [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
+
+
+## Linux Hard CTF
+
+---
+
+- [ ] [TryHackMe | Daily Bugle](https://tryhackme.com/room/dailybugle)
+
+- [ ] [TryHackMe | Internal](https://tryhackme.com/room/internal)
+
+- [ ] [TryHackMe | Year of the Jellyfish](https://tryhackme.com/room/yearofthejellyfish)
+
+
+## Windows Easy CTF
+
+---
+
+- [ ] [TryHackMe | Alfred](https://tryhackme.com/room/alfred)
+
+- [ ] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
+
+- [ ] [TryHackMe | Steel Mountain](https://tryhackme.com/room/steelmountain)
+
+- [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+
+- [ ] [TryHackMe | CyberLens](https://tryhackme.com/room/cyberlensp6)
+
+## Windows Medium  CTF
+
+---
+
+- [ ] [TryHackMe | HackPark](https://tryhackme.com/room/hackpark)
+
+- [ ] [TryHackMe | Hack Smarter Security](https://tryhackme.com/room/hacksmartersecurity)
+
+- [ ] [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
+
+- [ ] [TryHackMe | AllSignsPoint2Pwnage](https://tryhackme.com/room/allsignspoint2pwnage)
+
+
+## Windows Hard  CTF
+
+---
+
+- [ ] [TryHackMe | Year of the Owl](https://tryhackme.com/room/yearoftheowl)
+
+- [ ] [TryHackMe | Retro](https://tryhackme.com/room/retro)
 
 ## Basics Rooms
 
@@ -183,6 +248,7 @@
 ## Scripting
 
 ---
+- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlilab)
 
 - [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
@@ -270,25 +336,11 @@
 
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
-## Steganography
-
----
-
-- [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-
-- [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-- [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
-
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
-
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-
-- [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
 
 ---
+- [ ] [TryHackMe | NahamStore](https://tryhackme.com/room/nahamstore)
 
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
@@ -343,12 +395,6 @@
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
 - [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
-
-## Android
-
----
-
-- [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
 
@@ -460,7 +506,7 @@
 
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
-## *Active Directory
+## Active Directory
 
 ---
 
@@ -478,7 +524,35 @@
 
 - [ ] [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
+- [ ] [TryHackMe | Wreath](https://tryhackme.com/room/wreath)
+
+- [ ] [TryHackMe | Corp](https://tryhackme.com/room/corp)
+
+- [ ] [TryHackMe | Lateral Movement and Pivoting](https://tryhackme.com/room/lateralmovementandpivoting)
+
+
+## Active Directory Medium Rooms
+
+---
+
+- [ ] [TryHackMe | Exploiting Active Directory](https://tryhackme.com/room/exploitingad)
+
+- [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
+
+
+## Active Directory Hard Rooms
+
+---
+
+- [ ] [TryHackMe | Reset](https://tryhackme.com/room/resetui)
+
+- [ ] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
+
+- [ ] [TryHackMe | Ledger](https://tryhackme.com/room/ledger)
+
+
 ## PCAP Analysis
+
 
 ---
 
