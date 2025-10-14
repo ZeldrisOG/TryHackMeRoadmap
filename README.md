@@ -131,6 +131,31 @@
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
+
+
+## intermediate Rooms
+
+---
+
+- [ ] [TryHackMe | Living Off the Land](https://tryhackme.com/room/livingofftheland)
+
+- [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+
+- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
+
+- [ ] [TryHackMe | Zero Logon](https://tryhackme.com/room/zer0logon)
+
+- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+
+- [ ] [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
+
+- [ ] [TryHackMe | Overpass 2](https://tryhackme.com/room/overpass2hacked)
+
+- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+
+- [ ] [TryHackMe | HackPark](https://tryhackme.com/room/hackpark)
+
+
 ## Recon
 
 ---
