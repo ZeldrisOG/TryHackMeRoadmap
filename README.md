@@ -192,8 +192,6 @@
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
-
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 
