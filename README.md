@@ -192,7 +192,7 @@
 
 - [x] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+- [x] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 
 
