@@ -123,7 +123,7 @@
 
 - [ ] [TryHackMe | Zeno](https://tryhackme.com/room/zeno)
 
-- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+- [x] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 - [ ] [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
 
