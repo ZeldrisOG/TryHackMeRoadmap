@@ -103,7 +103,7 @@
 
 ---
 
-- [ ] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
+- [x] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
 - [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
