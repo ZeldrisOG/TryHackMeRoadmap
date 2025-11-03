@@ -105,7 +105,7 @@
 
 - [x] [TryHackMe | tomghost](https://tryhackme.com/room/tomghost)
 
-- [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
+- [x] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
 - [ ] [TryHackMe |Skynet](https://tryhackme.com/room/skynet)
 
