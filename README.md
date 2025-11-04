@@ -107,7 +107,7 @@
 
 - [x] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-- [ ] [TryHackMe |Skynet](https://tryhackme.com/room/skynet)
+- [x] [TryHackMe |Skynet](https://tryhackme.com/room/skynet)
 
 - [ ] [TryHackMe |Game Zone](https://tryhackme.com/room/gamezone)
 
