@@ -111,7 +111,7 @@
 
 - [ ] [TryHackMe |Game Zone](https://tryhackme.com/room/gamezone)
 
-- [ ] [TryHackMe |Silver Platter](https://tryhackme.com/room/silverplatter)
+- [x] [TryHackMe |Silver Platter](https://tryhackme.com/room/silverplatter)
 
 ## Linux Medium CTF
 
