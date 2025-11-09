@@ -113,7 +113,7 @@
 
 - [x] [TryHackMe |Silver Platter](https://tryhackme.com/room/silverplatter)
 
-- [ ] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
+- [x] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
