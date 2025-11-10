@@ -117,7 +117,7 @@
 
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak) - stuck trying to find the keepers key, its too hidden only clue i got is something about a nightmare I give up I will come back when im smart enough
 
 - [ ] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 
