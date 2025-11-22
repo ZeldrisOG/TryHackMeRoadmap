@@ -138,7 +138,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
-- [ ] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
+- [x] [TryHackMe | LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
 - [ ] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
