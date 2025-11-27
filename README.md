@@ -144,7 +144,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [x] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-- [ ] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
+- [x] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
 
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
