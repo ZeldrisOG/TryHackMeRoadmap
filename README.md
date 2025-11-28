@@ -158,9 +158,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-
-- [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster) windows machine
 
 - [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
@@ -233,6 +231,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 ## Linux Medium CTF
 
 ---
+- [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
 - [ ] [TryHackMe | Wonderful](https://tryhackme.com/room/wonderland)
 
