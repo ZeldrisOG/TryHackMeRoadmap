@@ -154,7 +154,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice) windows machine
 
-- [ ] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
+- [x] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
 - [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
