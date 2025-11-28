@@ -160,7 +160,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster) windows machine
 
-- [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
+- [x] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
 - [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
