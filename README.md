@@ -148,7 +148,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [x] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-- [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
+- [x] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav) default credentials should of been the first thing i check, completely slipped my mind wasted an hour scanning it with gobuster for nothing, learned about the put command how you can send a reverse shell directory to the webserver with the command "put php-reverse-shell.php" escalating priv was simple sudo -l i saw no password for cat so i could just cat the root flag without needing permission to access the directory 
 
 - [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
