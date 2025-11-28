@@ -162,7 +162,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [x] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [x] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
