@@ -152,7 +152,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills) challenging dont know what im doing
 
-- [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
+- [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice) windows machine
 
 - [ ] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
