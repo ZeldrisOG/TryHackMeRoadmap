@@ -166,8 +166,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades) i dont know its hard and very confusing
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)  requires using digital signatures to restore a file that I found on the home page after editing the file for the flag i notice a bug with the jpg containing the path for the flag, after verifying with a walkthrough i found that after copying them that this was an issue with how the ctf was setup and not because of me
-      
+- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)  digital signatures, file modifying, downloading the file from the tryhackme room challenge as part of the challenge, i never think of this and need the guide for all of this up till priv esc 
 
 - [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
