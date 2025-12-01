@@ -166,7 +166,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades) i dont know its hard and very confusing
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)  digital signatures, file modifying, downloading the file from the tryhackme room challenge as part of the challenge, i never think of this and need the guide for all of this up till priv esc 
+- [x] [TryHackMe | Madness](https://tryhackme.com/room/madness)  digital signatures, file modifying, downloading the file from the tryhackme room challenge as part of the challenge, i never think of this and need the guide for all of this up till priv esc 
 
 - [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
