@@ -170,7 +170,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-- [ ] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
+- [x] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
 - [ ] [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
