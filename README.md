@@ -180,7 +180,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [x] [TryHackMe | Couch](https://tryhackme.com/room/couch) initial nmap scan got 1-4 how many ports open, what db are we dealing with, whats the port, version of the db. first thing i did was go straight to metasploit and use it to look for a couchDB, I found one for Command execution, I got a shell, my next move was to get a reverseshell back to my machine and upgrade it with python. sudo -l didnt work and I didnt have much luck with find / perm -u=s 2>/dev/null so I put LinEnum on the machine for a scan and didnt find anything till I looked at a youtube video that told me I can use one of the commands used in the bash history file to instantly give me root which i dont really understand how i get root from this 
 
-- [ ] [TryHackMe | Source](https://tryhackme.com/room/source)
+- [x] [TryHackMe | Source](https://tryhackme.com/room/source)
 
 - [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
