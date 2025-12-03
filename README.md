@@ -188,7 +188,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-- [ ] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
+- [x] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
 - [ ] [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
