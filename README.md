@@ -196,7 +196,7 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [ ] [TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-- [ ] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
+- [x] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
 
 - [ ] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
