@@ -206,7 +206,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 
 - [ ] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj) LFI
 
-- [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel) LFI
 
 - [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
