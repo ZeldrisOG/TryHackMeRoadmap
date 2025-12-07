@@ -218,7 +218,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 
 - [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
-- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
+- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas) - windows
 
 - [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
