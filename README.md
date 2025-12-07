@@ -210,7 +210,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 
 - [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
  
-- [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
+- [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte) im lost i have no idea
 
 - [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
 
