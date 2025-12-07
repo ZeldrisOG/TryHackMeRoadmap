@@ -57,7 +57,7 @@
 | **[Easy CTF](#easy-ctf)**                         |     **58**      |                           |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
-| **[LFI](#LFI)**                                   |     **2**       |                           |
+| **[LFI](#LFI)**                                   |     **3**       |                           |
 | **[SSRF](#SSRF)**                                 |      **9**      |                           |
 | **Total Rooms:**                                  |     **378**     |                           |
 
@@ -212,7 +212,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
  
 - [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte) im lost i have no idea
 
-- [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
+- [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw) LFI
 
 - [ ] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
