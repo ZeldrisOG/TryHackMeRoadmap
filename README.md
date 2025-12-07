@@ -200,7 +200,9 @@ sudo -l should of worked which would of made it 100 times easier to figure out b
 
 - [x] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
-- [ ] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
+- [x] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch) I had a really hard time with this one, modifying api endpoints and stuff isnt really something im familiar with, getting a shell opened required me to make a post request to the server in burpsuite with cmd to execute the shell.
+    to get a root shell i needed to find the firefox in the users directory and extract the login credentials from that, my machine wasnt cooperating with me so i decided that im going to just get the password off the walkthrough, i might as well because ive been so stuck on this one and been using the guide 80% of the time.
+for the priv esc i saw a non default binary called doas which i googled and found to be similar to sudo so i used this doas with root to open a root shell
 
 - [ ] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
