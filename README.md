@@ -57,7 +57,7 @@
 | **[Easy CTF](#easy-ctf)**                         |     **58**      |                           |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
-| **[LFI](#LFI)**                                   |     **35**      |                           |
+| **[LFI](#LFI)**                                   |     **2**       |                           |
 | **[SSRF](#SSRF)**                                 |      **9**      |                           |
 | **Total Rooms:**                                  |     **378**     |                           |
 
