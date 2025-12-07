@@ -209,9 +209,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 - [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel) LFI
 
 - [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
-
-- [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
-
+ 
 - [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
 - [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
@@ -231,6 +229,8 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 ## Linux Medium CTF
 
 ---
+- [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
+    
 - [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
 - [ ] [TryHackMe | Wonderful](https://tryhackme.com/room/wonderland)
