@@ -224,7 +224,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 
 - [x] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures) simple and fun would repeat this room again
 
-- [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
+- [x] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio) extremely tough and complicated with xml and a whole chain of exploits just to get the initial access borderline medium difficulty ctf
 
 ## Linux Medium CTF
 
