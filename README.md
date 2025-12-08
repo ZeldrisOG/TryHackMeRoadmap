@@ -222,7 +222,7 @@ for the priv esc i saw a non default binary called doas which i googled and foun
 
 - [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
-- [ ] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
+- [x] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures) simple and fun would repeat this room again
 
 - [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
