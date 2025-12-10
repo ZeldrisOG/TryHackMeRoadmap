@@ -117,7 +117,7 @@
 
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak) - stuck trying to find the keepers key, its too hidden only clue i got is something about a nightmare I give up I will come back when im smart enough
+- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak) - tough room coming back twice now for a second attempt with help of the walkthrough i was able to progress and find what i needed to get access to the the ssh user and claim the user flag, now im praying the cronjob i modified runs without issue and gives me root shell 
 
 - [x] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker) - easy to get initial access but when it came to getting a root shell i felt pretty helpless when the exploits linpeas suggested to be vulnerable wasnt working ontop of that
 sudo -l should of worked which would of made it 100 times easier to figure out but for some reason i didnt have permission to run it while all the walkthroughs i looked at later gave access without even prompting a password, I was lost i needed a point in the right direction so i peaked at the walkthrough and just as i suspected it had something to do with SUIDs which i gathered when looking at PATH earlier with linpeas, i didnt know lin had sudo permissions for tar if i had known that i would of captured root alot sooner
