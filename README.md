@@ -109,7 +109,7 @@
 
 - [x] [TryHackMe |Skynet](https://tryhackme.com/room/skynet)
 
-- [ ] [TryHackMe |Game Zone](https://tryhackme.com/room/gamezone)
+- [ ] [TryHackMe |Game Zone](https://tryhackme.com/room/gamezone) vert basic ctf had trouble only at the end because the shell didnt want to open for me but basically rooted it only if metasploit wasnt so unstable I might need to revisit this again someday when metasploit isnt so terrible or I can come up with a clever workaround to get a root shell for now this room has left me without its root flag yet again
 
 - [x] [TryHackMe |Silver Platter](https://tryhackme.com/room/silverplatter)
 
