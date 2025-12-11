@@ -115,7 +115,7 @@
 
 - [x] [TryHackMe | GamingServer](https://tryhackme.com/room/gamingserver)
 
-- [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+- [x] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs) basic priv esc room showing you how to abuse the OverlayFS exploit to escalate your priv. exploit worked first try easy!
 
 - [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak) - tough room coming back twice now for a second attempt with help of the walkthrough i was able to progress and find what i needed to get access to the the ssh user and claim the user flag, now im praying the cronjob i modified runs without issue and gives me root shell 
 
